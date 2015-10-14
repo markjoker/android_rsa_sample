@@ -65,7 +65,7 @@ public final class RsaUtils
      *
      * @param data
      *            需加密数据的byte数据
-     * @param pubKey
+     * @param publicKey
      *            公钥
      * @return 加密后的byte型数据
      */
